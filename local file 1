@@ -1,0 +1,16 @@
+git add * 
+to adding a file into unstageing location
+git commit -m "message of the commit"
+to adding a file into stageing location
+git push -u origin <branch name>
+for pushing the file into central
+git remote add origin reposerty url        --one time activity
+it is using to connecting with local reposerty to central reposerty
+
+
+one time activity configuration commands
+git config --global user.email "ure git hub email id"
+git config --global user.name "git hub user name"
+
+git init
+to creating a folder as a reposerty in local 
