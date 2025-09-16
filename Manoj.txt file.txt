@@ -1,0 +1,5 @@
+Public class Method demo 1
+{
+public static void main(string[]args)
+  }
+}
